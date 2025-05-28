@@ -1,12 +1,7 @@
-Sure! Here’s a clean, professional **README** draft for your GitHub repo that matches the CV description and highlights the key features clearly:
 
----
+
 
 # Multi-Modal PDF Query System with RAG and Voice Output
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-mrinalchaturvedi27/bootcamp-blue)](https://github.com/mrinalchaturvedi27/bootcamp)
-
----
 
 ## Project Overview
 
